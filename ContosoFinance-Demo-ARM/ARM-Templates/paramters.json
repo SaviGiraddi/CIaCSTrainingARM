@@ -6,19 +6,19 @@
             "value": "WestEurope"
         },
         "hostingplanname": {
-            "value": "SmithaCIaCSTraining-Plan"
+            "value": "SavitriGiraddi-Plan"
         },
         "webappname": {
-            "value": "SmithaCIaCSTraining-Site"
+            "value": "SavitriGiraddi-Site"
         },
         "apiname": {
-            "value": "SmithaCIaCSTraining-Api"
+            "value": "SavitriGiraddi-Api"
         },
         "sqlservername": {
-            "value": "SmithaCIaCSTraining-Sql"
+            "value": "SavitriGiraddi-Sql"
         },
         "databasename": {
-            "value": "smithaciacstrainingdb"
+            "value": "savitridb"
         },
         "skuName": {
             "value": "F1"
